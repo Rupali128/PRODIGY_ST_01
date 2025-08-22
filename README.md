@@ -1,4 +1,4 @@
-#PRODIGY_ST_01
+# PRODIGY_ST_01
 
 <h1> 🧮 Calculator Application – Manual Test Cases </h1>
 
